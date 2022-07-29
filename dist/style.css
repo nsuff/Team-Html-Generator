@@ -1,0 +1,16 @@
+
+.heading {
+  font-size: 28px;
+}
+
+
+.card {
+  background-color: cyan;
+  border-width: 3px;
+  border-color: blue;
+
+}
+
+.card-header {
+  background-color: cornflowerblue;
+}
